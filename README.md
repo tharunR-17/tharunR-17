@@ -81,7 +81,16 @@
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/tharunrs33y)](https://www.geeksforgeeks.org/user/tharunrs33y/)
 
-![LeetCode Heatmap](https://leetcode-stats-card.vercel.app/heatmap/tharun_17r)
+import LeetCodeCalendar from 'leetcode-calendar';
+
+<LeetCodeCalendar 
+  username='tharun_17r' 
+  blockSize={15} 
+  blockMargin={5} 
+  fontSize={16} 
+  style={{ maxWidth: '1100px' }} 
+/>
+
 
 
 ## 📈 GitHub Stats
