@@ -33,7 +33,7 @@
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       <br><b>Node.js</b>
     </td>
     <td align="center" width="96">
@@ -48,41 +48,34 @@
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
       <br><b>REST API</b>
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" />
-      <br><b>MongoDB</b>
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=express" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" />
+      <br><b>MongoDB</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" />
       <br><b>Express</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" />
       <br><b>HTML5</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" />
       <br><b>CSS3</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" />
       <br><b>Git</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
       <br><b>Docker</b>
-    </td>
-    <td align="center" width="96">
-      <!-- Optional Placeholder -->
-    </td>
-    <td align="center" width="96">
-      <!-- Optional Placeholder -->
     </td>
   </tr>
 </table>
-
 
 ---
 
