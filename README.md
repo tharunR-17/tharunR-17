@@ -33,7 +33,7 @@
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="65" height="65" alt="Node.js" />
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="65" height="65" />
       <br><b>Node.js</b>
     </td>
     <td align="center" width="96">
