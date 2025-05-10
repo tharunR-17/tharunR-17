@@ -1,3 +1,4 @@
+<!-- Main Header Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Tharun!;Welcome+to+my+GitHub+Universe!;AI+%7C+Web3+%7C+Blockchain+%7C+Fullstack+Dev;I+code+daily+across+platforms!" />
   
@@ -153,6 +154,7 @@
 
 <br>
 
+<!-- Footer Typing Effect -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=🧠+Code.+Learn.+Repeat.+-+Tharun.;Thanks+for+visiting+my+profile!" />
 </div>
