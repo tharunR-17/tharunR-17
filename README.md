@@ -25,27 +25,27 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" />
       <br><b>Python</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" />
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
       <br><b>Node.js</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" />
       <br><b>React</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
       <br><b>GitHub</b>
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=api" width="65" height="65" />
       <br><b>REST API</b>
     </td>
   </tr>
@@ -73,6 +73,32 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" />
       <br><b>Docker</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" />
+      <br><b>Java</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" />
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" />
+      <br><b>C</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" />
+      <br><b>MySQL</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" />
+      <br><b>Linux</b>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" />
+      <br><b>Firebase</b>
     </td>
   </tr>
 </table>
