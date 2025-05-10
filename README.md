@@ -77,6 +77,9 @@
 
 ![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tharun_17r&theme=tokyonight&animated=true)
 
+## 🎯Coding Chart
+
+[![GeeksForGeeks stats](https://gfgstatscard.vercel.app/tharunrs33y)](https://www.geeksforgeeks.org/user/tharunrs33y/)
 
 ## 📈 GitHub Stats
 
