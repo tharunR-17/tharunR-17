@@ -15,16 +15,6 @@
 - 📫 Reach me: tharunravi71@gmail.com
 - 💬 Fun Fact: I believe good coffee and clean code solve most problems ☕
 
-## 🧠 About Me
-
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-
-- 🔭 Working on: **Blockchain Certificate Verification System** & **ShopMate Voice AI Chatbot**
-- 🌱 Learning: **Hyperledger**, **AI Ethics**, and **Advanced Backend APIs**
-- 🧑‍💻 Solving DSA Problems on LeetCode, GeeksforGeeks, CodeChef, Unstop, Coding Ninjas
-- 🏆 Earned multiple badges & certifications in AI, Cloud, and API development
-- 📫 Reach me: tharunravi71@gmail.com
-- 💬 Fun Fact: I believe good coffee and clean code solve most problems ☕
 
 ## 💻 Tech Stack
 
@@ -82,6 +72,11 @@
     </td>
   </tr>
 </table>
+
+## 🏆 LeetCode Achievements
+
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tharun_17r&theme=tokyonight&animated=true)
+
 
 ## 📈 GitHub Stats
 
