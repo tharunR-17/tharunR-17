@@ -1,93 +1,140 @@
-<h1 align="center">Hi there 👋, I'm Tharun</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | Passionate Problem Solver | AI & Web3 Enthusiast</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋,+I'm+Tharun;Welcome+to+my+GitHub!;I+code+daily+on+multiple+platforms;AI+%7C+Web3+%7C+Blockchain+%7C+Fullstack&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
+  
+  <h3>🚀 Aspiring Software Engineer | Passionate Problem Solver | AI & Web3 Enthusiast</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+code+daily+on+multiple+platforms;AI+%7C+Web3+%7C+Blockchain+%7C+Fullstack&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=22" />
-</p>
+## 🧠 About Me
 
----
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-### 🧠 About Me
-- 🔭 Working on: `Blockchain Certificate Verification System` & `ShopMate Voice AI Chatbot`
-- 🌱 Learning: `Hyperledger`, `AI Ethics`, and `Advanced Backend APIs`
-- 🧑‍💻 Solving DSA Problems on:
-  - LeetCode, GeeksforGeeks, CodeChef, Unstop, Coding Ninjas
+- 🔭 Working on: **Blockchain Certificate Verification System** & **ShopMate Voice AI Chatbot**
+- 🌱 Learning: **Hyperledger**, **AI Ethics**, and **Advanced Backend APIs**
+- 🧑‍💻 Solving DSA Problems on LeetCode, GeeksforGeeks, CodeChef, Unstop, Coding Ninjas
 - 🏆 Earned multiple badges & certifications in AI, Cloud, and API development
-- 📫 Contact me: [tharunravi71@gmail.com](mailto:tharun@example.com)
+- 📫 Reach me: tharunravi71@gmail.com
 - 💬 Fun Fact: I believe good coffee and clean code solve most problems ☕
 
----
+## 🧠 About Me
 
-### 🚀 Platforms & Profiles
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 
-<p align="left">
-  <a href="https://leetcode.com/u/tharun_17r/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+- 🔭 Working on: **Blockchain Certificate Verification System** & **ShopMate Voice AI Chatbot**
+- 🌱 Learning: **Hyperledger**, **AI Ethics**, and **Advanced Backend APIs**
+- 🧑‍💻 Solving DSA Problems on LeetCode, GeeksforGeeks, CodeChef, Unstop, Coding Ninjas
+- 🏆 Earned multiple badges & certifications in AI, Cloud, and API development
+- 📫 Reach me: tharunravi71@gmail.com
+- 💬 Fun Fact: I believe good coffee and clean code solve most problems ☕
+
+## 💻 Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
+      <br>REST API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
+</table>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunR-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharunR-17&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunR-17&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tharunR-17&theme=tokyonight&no-frame=true&column=7" />
+</div>
+
+## 📊 Activity Graph
+
+<img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=tharunR-17&theme=tokyo-night&hide_border=true" />
+
+## ⚡ Featured Projects
+
+<div align="center">
+  <a href="https://github.com/tharunR-17/ShopMate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ShopMate&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/tharunrs33y/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://github.com/tharunR-17/ImageChain">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://www.codechef.com/users/tharun_17r" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-  <a href="https://unstop.com/u/tharun_17r" target="_blank">
-    <img src="https://img.shields.io/badge/Unstop-330000?style=for-the-badge&logo=unstop&logoColor=white" />
-  </a>
-  <a href="https://www.naukri.com/code360/profile/tharun_17r" target="_blank">
-    <img src="https://img.shields.io/badge/Coding Ninjas-DD3A0A?style=for-the-badge&logo=codingninjas&logoColor=white" />
-  </a>
-</p>
+</div>
 
----
+## 🌍 Connect With Me
 
-### 🏅 Certifications
-- Postman Student Expert
-- Google Analytics Certified
-- Multiple in-house badges on LeetCode, GFG, CN
-
----
-
-### 💻 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunR-17&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunR-17&theme=tokyonight" />
-</p>
-
----
-
-### ⚡ Fun Projects
-- 🛍️ **ShopMate** – Voice-Activated E-commerce Assistant
-- 🔐 **ImageChain** – Blockchain-based Certificate Verification
-- 🤖 **Smart Home AI** – Intelligent automation with ML + IoT
-
----
-
-### 🌍 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/tharun-r-a7bba7271" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/tharun-r-a7bba7271">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:tharunravi71@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+  <a href="https://leetcode.com/u/tharun_17r/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/tharunrs33y/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tharunR-17&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
 
-🧠 *“Code, Learn, Repeat.”* – Tharun
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=🧠+Code,+Learn,+Repeat.+-+Tharun;Thanks+for+visiting+my+profile!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+</div>
