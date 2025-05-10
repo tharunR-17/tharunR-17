@@ -81,16 +81,7 @@
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/tharunrs33y)](https://www.geeksforgeeks.org/user/tharunrs33y/)
 
-import LeetCodeCalendar from 'leetcode-calendar';
-
-<LeetCodeCalendar 
-  username='tharun_17r' 
-  blockSize={15} 
-  blockMargin={5} 
-  fontSize={16} 
-  style={{ maxWidth: '1100px' }} 
-/>
-
+![LeetCode Stats](https://leetcode-solved-problems.vercel.app/api?username=tharun_17r&type=calendar)
 
 
 ## 📈 GitHub Stats
