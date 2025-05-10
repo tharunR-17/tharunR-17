@@ -1,9 +1,9 @@
-<!-- Main Header Typing Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I'm+Tharun!;Welcome+to+my+GitHub+Universe!;AI+%7C+Web3+%7C+Blockchain+%7C+Fullstack+Dev;I+code+daily+across+platforms!" alt="Typing Header" />
-</p>
-
+<h1 align="center">Hi there 👋, I'm Tharun R</h1>
 <h3 align="center">🚀 Aspiring Software Engineer | Passionate Problem Solver | AI & Web3 Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;I+code+daily+on+multiple+platforms;AI+%7C+Web3+%7C+Blockchain+%7C+Fullstack&font=Fira%20Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=20" />
+</p>
 
 ---
 
@@ -17,6 +17,7 @@
 - 🏆 Certified in: **AI**, **Cloud Computing**, **API Development**
 - 📫 Reach out: **tharunravi71@gmail.com**
 - ☕ Fun Fact: I believe *great coffee + clean code* = life sorted.
+- ✨**Man is made by his Belief. As he believes, so he is**✨
 
 ---
 
@@ -25,27 +26,27 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" />
       <br><b>Python</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" height="65" />
       <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="65" height="65" />
       <br><b>Node.js</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" />
       <br><b>React</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" />
       <br><b>GitHub</b>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=api" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" />
       <br><b>REST API</b>
     </td>
   </tr>
@@ -145,8 +146,8 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tharunR-17/ShopMate">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ShopMate&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/tharunR-17/Certifiacte-Verification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Certificate-Verification&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/tharunR-17/ImageChain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true" />
@@ -182,5 +183,6 @@
 
 <!-- Footer Typing Effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=480&lines=🧠+Code.+Learn.+Repeat.+-+Tharun.;Thanks+for+visiting+my+profile!" alt="Typing SVG Footer" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%A7%A0+Code%2C+Learn%2C+Repeat.+-+Tharun%20R&font=Fira+Code&center=true&width=440&height=45&color=58A6FF&vCenter=true&pause=1000&size=20" />
 </p>
+
