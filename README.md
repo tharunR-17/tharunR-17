@@ -13,7 +13,7 @@
 - 🧑‍💻 Solving DSA Problems on:
   - LeetCode, GeeksforGeeks, CodeChef, Unstop, Coding Ninjas
 - 🏆 Earned multiple badges & certifications in AI, Cloud, and API development
-- 📫 Contact me: [tharun@example.com](mailto:tharun@example.com)
+- 📫 Contact me: [tharunravi71@gmail.com](mailto:tharun@example.com)
 - 💬 Fun Fact: I believe good coffee and clean code solve most problems ☕
 
 ---
@@ -21,19 +21,19 @@
 ### 🚀 Platforms & Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/your_leetcode_username/" target="_blank">
+  <a href="https://leetcode.com/u/tharun_17r/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/your_gfg_username/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/tharunrs33y/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/your_codechef_username" target="_blank">
+  <a href="https://www.codechef.com/users/tharun_17r" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-  <a href="https://unstop.com/user/your_unstop_username" target="_blank">
+  <a href="https://unstop.com/u/tharun_17r" target="_blank">
     <img src="https://img.shields.io/badge/Unstop-330000?style=for-the-badge&logo=unstop&logoColor=white" />
   </a>
-  <a href="https://www.codingninjas.com/codestudio/profile/your_codingninjas_username" target="_blank">
+  <a href="https://www.naukri.com/code360/profile/tharun_17r" target="_blank">
     <img src="https://img.shields.io/badge/Coding Ninjas-DD3A0A?style=for-the-badge&logo=codingninjas&logoColor=white" />
   </a>
 </p>
@@ -41,10 +41,8 @@
 ---
 
 ### 🏅 Certifications
-- Microsoft Certified: Azure AI Fundamentals (AI-900)
 - Postman Student Expert
 - Google Analytics Certified
-- Mendix Rapid Developer
 - Multiple in-house badges on LeetCode, GFG, CN
 
 ---
@@ -65,9 +63,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharun-dev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tharunR-17&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharun-dev&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunR-17&theme=tokyonight" />
 </p>
 
 ---
@@ -82,10 +80,10 @@
 ### 🌍 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/tharun-dev" target="_blank">
+  <a href="https://www.linkedin.com/in/tharun-r-a7bba7271" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:tharun@example.com">
+  <a href="mailto:tharunravi71@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
