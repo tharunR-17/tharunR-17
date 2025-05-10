@@ -171,7 +171,17 @@
   <a href="https://www.geeksforgeeks.org/user/tharunrs33y/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
+  <a href="https://www.codechef.com/users/tharun_17r">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+  <a href="https://unstop.com/u/tharun_17r">
+    <img src="https://img.shields.io/badge/Unstop-2A2A2A?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMTI4IDEyOCIgd2lkdGg9IjE1IiBoZWlnaHQ9IjE1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMDMuMzA5IDExLjA2NUM5My40MjEgMy44OTIgODAuNzE4LS4wMDQgNjcuNDY4LjAwN2MtMTMuMjUgMCAyNS4yNTkgMTEuNTk2IDMzLjMxNSA2LjM3NiA1Ljc3Ni0zLjU5NSA2LjM4OS0xMS4zNjQgMi4xMTUtMTUuMzF6TTI2LjE0IDUzLjU0NWM1LjE5LTcuNzE5IDEyLjE4Ny0xNC4zMyAyMC42MzgtMTguODExIDguNDUxLTQuNDggMTguMTEyLTYuNzU2IDI3LjgxNi02Ljc1NnMzOS4yNzIgMi40NzYgMzkuMjcyIDMwLjE2NWMwIDI1LjgyMi0yOC45NjkgMjYuNzQ2LTI5LjgyNiAyNi44NzEtMS43MzkuMDIxLTcuMDE5LjY0OC05LjM2OCA2LjQzMS0yLjEyOCA1LjI2My0xLjQ3NiAxMC4wMDEtMi4zNTQgMTQuNTMxLTIuMDA1IDEwLjI4My05LjIzMSAyMy41MTQtMjYuNDEzIDMyLjMwOS0zNS44OTkgOS44MDYtMjIuMDA3IDE0LjA1OS00Ni42MDMgMTAuMzgxLTcwLjE1LTYuNDA4LTQuNzA4LTE0LjY4OC0yLjg1Mi0xOC4zNTQuMjM5LTEzLjU4MyAxMS43MjYtMjYuNzA1IDI1LjU1NS0zNi4xNTYgNDEuNzkyLTIuNzQ3IDQuODgyLTYuMzkzIDcuMTkyLTguMTg5IDEyLjQ3Mi0zLjcyMyAxMC44NDEtMS43NzQgMjIuNzY1LTIuMzgzIDM0LjIxOC0uMjMzIDQuMTg3LS4yNTUgOC41ODMuNDk0IDEyLjY0NnoiLz48L3N2Zz4=&logoColor=white" />
+  </a>
+  <a href="https://www.naukri.com/code360/profile/tharun_17r">
+    <img src="https://img.shields.io/badge/Coding Ninjas-DD6B27?style=for-the-badge&logo=codingninjas&logoColor=white" />
+  </a>
 </div>
+
 
 <br>
 
