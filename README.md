@@ -81,6 +81,9 @@
 
 [![GeeksForGeeks stats](https://gfgstatscard.vercel.app/tharunrs33y)](https://www.geeksforgeeks.org/user/tharunrs33y/)
 
+![LeetCode Heatmap](https://leetcode-stats-card.vercel.app/heatmap/tharun_17r)
+
+
 ## 📈 GitHub Stats
 
 <div align="center">
