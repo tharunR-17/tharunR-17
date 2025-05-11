@@ -152,6 +152,15 @@
   <a href="https://github.com/tharunR-17/ImageChain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true" />
   </a>
+  <a href="https://github.com/tharunR-17/GeeksforGeeks-Problem">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=GeeksforGeeks-Problems&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/tharunR-17/Leetcode-Problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Leetcode-Problems&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/tharunR-17/Unstop-Problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Unstop-Problems&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
