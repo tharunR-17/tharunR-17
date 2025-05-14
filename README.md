@@ -128,7 +128,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunR-17&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=tharunR-17&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
