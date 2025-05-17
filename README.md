@@ -146,7 +146,7 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tharunR-17/Certifiacte-Verification">
+  <a href="https://github.com/tharunR-17/Certificate-Verification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Certificate-Verification&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/tharunR-17/Cardiac_Arrhythmia_Detection">
