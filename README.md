@@ -147,22 +147,22 @@
 
 <div align="center">
   <a href="https://github.com/tharunR-17/Certificate-Verification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Certificate-Verification&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Certificate-Verification&theme=tokyonight&hide_border=true&about=true/" />
   </a>
   <a href="https://github.com/tharunR-17/Cardiac_Arrhythmia_Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Cardiac_Arrhythmia_Detection&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Cardiac_Arrhythmia_Detection&theme=tokyonight&hide_border=true&about=true/" />
   </a>
   <a href="https://github.com/tharunR-17/ImageChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true&about=true/" />
   </a>
-  <a href="https://github.com/tharunR-17/GeeksforGeeks-Problem">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=GeeksforGeeks-Problems&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/tharunR-17/GeeksforGeeks-Problems">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=GeeksforGeeks-Problems&theme=tokyonight&hide_border=true&about=true/" />
   </a>
   <a href="https://github.com/tharunR-17/Leetcode-Problems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Leetcode-Problems&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Leetcode-Problems&theme=tokyonight&hide_border=true&about=true/" />
   </a>
   <a href="https://github.com/tharunR-17/Unstop-Problems">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Unstop-Problems&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Unstop-Problems&theme=tokyonight&hide_border=true&about=true/" />
   </a>
 </div>
 
