@@ -155,6 +155,9 @@
   <a href="https://github.com/tharunR-17/ImageChain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true&about=true/" />
   </a>
+  <a href="https://github.com/tharunR-17/AlphaGame">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=AlphaGame&theme=tokyonight&hide_border=true&about=true/" />
+  </a>
   <a href="https://github.com/tharunR-17/GeeksforGeeks-Problems">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=GeeksforGeeks-Problems&theme=tokyonight&hide_border=true&about=true/" />
   </a>
