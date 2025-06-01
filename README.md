@@ -9,14 +9,15 @@
 
 ## 🧠 About Me
 
-<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcxMmRyNDFvemh3ODd1MHk1bzV3OG5sdWZ6MG4wZGtjZW4xb3VjdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
+
 
 - 🔭 Currently Building: **Blockchain Certificate Verification System** & **ShopMate Voice AI Chatbot**
 - 🌱 Always Learning: **Hyperledger**, **AI Ethics**, and **Advanced Backend Development**
 - 💡 Daily Practice: LeetCode | GFG | CodeChef | Unstop | Coding Ninjas
 - 🏆 Certified in: **AI**, **Cloud Computing**, **API Development**
 - 📫 Reach out: **tharunravi71@gmail.com**
-- ☕ Fun Fact: I believe *great coffee + clean code* = life sorted.
+- ☕ Fun Fact: I believe *great coffee + clean code* = *life sorted*.
 - ✨**Man is made by his Belief. As he believes, so he is**✨
 
 ---
