@@ -12,7 +12,7 @@
 <img align="right" height="150" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHcxMmRyNDFvemh3ODd1MHk1bzV3OG5sdWZ6MG4wZGtjZW4xb3VjdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif" />
 
 
-- 🔭 Currently Building: **Blockchain Certificate Verification System** & **ShopMate Voice AI Chatbot**
+- 🔭 Currently Building: **Blockchain Certificate Verification System**, **ShopMate Voice AI Chatbot** & **Hospital Management System with Agentic AI**
 - 🌱 Always Learning: **Hyperledger**, **AI Ethics**, and **Advanced Backend Development**
 - 💡 Daily Practice: LeetCode | GFG | CodeChef | Unstop | Coding Ninjas
 - 🏆 Certified in: **AI**, **Cloud Computing**, **API Development**
@@ -109,7 +109,6 @@
 
 ## 🏆 LeetCode Achievements
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tharun_17r&theme=tokyonight&animated=true)
 
 ---
 
