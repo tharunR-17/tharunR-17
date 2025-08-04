@@ -109,7 +109,7 @@
 
 ## 🏆 LeetCode Achievements
 
-![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tharun_17r&theme=tokyonight&border=border)
+![LeetCode Badges](https://leetcode-badge-showcase.vercel.app/api?username=tharun_17r&theme=tokyonight&border=border&animation=true)
 
 ---
 
