@@ -147,18 +147,11 @@
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tharunR-17/Certificate_Verification_Management">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Certificate_Verification_Management&theme=tokyonight&hide_border=true&about" />
-  </a>
-  <a href="https://github.com/tharunR-17/Cardiac_Arrhythmia_Detection">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Cardiac_Arrhythmia_Detection&theme=tokyonight&hide_border=true&about" />
-  </a>
+  
   <a href="https://github.com/tharunR-17/AlphaGame">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=AlphaGame&theme=tokyonight&hide_border=true&about" />
   </a>
-  <a href="https://github.com/tharunR-17/Certificate-Verification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=Certificate-Verification&theme=tokyonight&hide_border=true&about" />
-  </a>
+  
   <a href="https://github.com/tharunR-17/ImageChain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tharunR-17&repo=ImageChain&theme=tokyonight&hide_border=true&about" />
   </a>
